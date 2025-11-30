@@ -32,7 +32,6 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:    https://www.linkedin.com/in/emily-ramirez23/
-  gmail: emilyram@usc.edu
   # github: leea12    # https://github.com/{your url slug} 
   # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   # medium:            # https://medium.com/@{your url slug} 
@@ -49,26 +48,15 @@ skills:
   - category: 3D Modeling
     tools:
     - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
     - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - ANSYS Discovery
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
+    - 3D Printing
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
+    - Arduino
     - Breadboarding for circuit testing
+    - Particle Photon 2
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14
