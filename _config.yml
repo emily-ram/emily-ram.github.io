@@ -49,7 +49,9 @@ skills:
     tools:
     - Onshape
     - Siemens NX
-    - ANSYS Discovery
+    - ANSYS Discovery/SpaceClaim
+    - ANSYS Workbench
+    - ANSYS Mechanical (Stress, Thermal, Modal Analysis)
   - category: Prototyping
     tools:
     - 3D Printing
@@ -61,19 +63,17 @@ skills:
     tools:
     - GD&T ASME Y14
     - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+  # - category: PCB Design
+  #   tools:
+  #   - Altium Designer
+  #   - Altium
+  #   - Eagle 
+  #   - KiCad
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
     - DFMEA / PFMEA 
     - Six Sigma methodologies
-    - Shain Red-X
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
