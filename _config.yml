@@ -75,12 +75,52 @@ skills:
     - DFMEA / PFMEA 
     - Six Sigma methodologies
 
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
-relevant coursework:
-  - tools:
-    - hi
-    - hi
-    - hi
+relevant_courses:
+  - category: Mechanical Engineering Fundamentals
+    courses:
+      - Mechanics of Materials & Structures (AME204)
+      - Dynamics (AME301)
+      - Statics (AME201)
+      - Fluid Dynamics (AME309)
+      - Heat Transfer (AME431)
+
+  - category: Materials & Manufacturing
+    courses:
+      - Materials Science (MASC110)
+      - Materials Behavior & Processing (MASC310)
+
+  - category: Product Design & Development
+    courses:
+      - Engineering Design Theory & Practice (AME410)
+      - Senior Projects Laboratory (AME441A)
+      - Innovation in Engineering & Technology (CE486A)
+
+  - category: Prototyping / Testing
+    courses:
+      - Measurement & Instrumentation (AME341A)
+      - Measurement & Instrumentation Laboratory (AME341B)
+      - Making Smart Devices: Intro to Microcontrollers (TAC348)
+
+  - category: Analysis & Computational Methods
+    courses:
+      - Computer-Aided Engineering (AME308)
+      - MATLAB Programming (ITP168)
+      - Mathematics of Physics & Engineering (MATH245)
+
+
+additional_coursework:
+  - category: Engineering & Physics Foundations
+    courses:
+      - Engineering Thermodynamics I (AME310)
+      - Dynamic Systems (AME302)
+      - Fundamentals of Physics I: Mechanics & Thermodynamics (PHYS151)
+      - Fundamentals of Physics II: Electricity & Magnetism (PHYS152)
+      - Fundamentals of Physics III (PHYS153)
+
+  - category: Mathematics
+    courses:
+      - Calculus II
+      - Calculus III (MATH226)
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
