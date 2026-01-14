@@ -1,6 +1,6 @@
 ---
 layout: post
-title: project title
+title: Aerospace Structural Analysis and ANSYS Simulation Project
 description:  short description of the project
 skills: 
 - Finite element analysis (FEA) in ANSYS
