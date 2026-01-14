@@ -6,11 +6,13 @@ description: |
 
   Through static structural, thermal, and modal analyses, I evaluated stress, strain, deformation, thermal gradients, and natural frequencies under multiple boundary conditions. Critical regions were identified, and failure modes, safety margins, and design risks—including yield, buckling, and fatigue sensitivity—were assessed, enabling both informed design recommendations and identification of potential points of failure for improved component reliability.
 skills:
-- Finite element analysis (FEA) in ANSYS
-- Structural, thermal, and modal analysis
-- Geometry creation and mesh refinement
-- Boundary condition and load application
-- Buckling, failure, and safety margin assessment
-- Simulation post-processing and result interpretation
+- FEA
+- ANSYS SpaceClaim/Discovery
+- Structural analysis
+- Thermal analysis
+- Modal analysis
+- Geometry & meshing
+- Failure & safety assessment
+- Siemens NX
 main-image: /ansys_satellite.png
 ---
